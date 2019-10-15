@@ -1,0 +1,22 @@
+Added Component: Designator=C23(0603C)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C39(0603C)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L3(0603C)
+Add component. Clean all parameters for all variants
+Added Component: Designator=RESET1(KEY_M)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=NetC22_2 Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=VCC3.3E Pin=C39-2
+Added Pin To Net: NetName=NetF2_1 Pin=L3-1
+Added Pin To Net: NetName=VCC_3.3V_S Pin=L3-2
+Added Pin To Net: NetName=NRST Pin=RESET1-1
+Added Pin To Net: NetName=NRST Pin=RESET1-1
+Added Pin To Net: NetName=GND Pin=RESET1-2
+Added Pin To Net: NetName=GND Pin=RESET1-2
+Added Member To Class: ClassName=Master_V1 Member=Component C23 10uF
+Added Member To Class: ClassName=Master_V1 Member=Component C39 10uF
+Added Member To Class: ClassName=Master_V1 Member=Component L3 220R,2.0A,0.05DCR
+Added Member To Class: ClassName=Master_V1 Member=Component RESET1 KEY_M

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=CAN1_L Pin=G2-1
+Removed Pin From Net: NetName=CAN1_H Pin=G2-2
+Removed Member From Class: ClassName=Slave_V1 Member=G2
+Added Component: Designator=CAN2(XH2.54-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CAN3(XH2.54-2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=CAN1_L Pin=CAN2-1
+Added Pin To Net: NetName=CAN1_H Pin=CAN2-2
+Added Pin To Net: NetName=CAN1_L Pin=CAN3-1
+Added Pin To Net: NetName=CAN1_H Pin=CAN3-2
+Added Member To Class: ClassName=Slave_V1 Member=Component CAN2 CAN
+Added Member To Class: ClassName=Slave_V1 Member=Component CAN3 CAN

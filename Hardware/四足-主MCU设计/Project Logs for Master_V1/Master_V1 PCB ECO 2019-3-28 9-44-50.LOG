@@ -1,0 +1,170 @@
+Added Component: Designator=C11(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C12(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C13(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C14(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C15(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C16(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C22(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C24(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C25(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C26(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C34(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C35(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C38(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C40(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C41(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C42(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C43(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C44(C0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=L5(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R13(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R14(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R15(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R25(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R26(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R27(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R28(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R29(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R30(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R31(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R32(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R34(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R35(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R37(R0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R38(R0603)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC3.3_S Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=VCC3.3_S Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=VCC_3.3V_S Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=VCC3.3E Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=VCC3.3E Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=NetC34_2 Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C35-1
+Added Pin To Net: NetName=NetC35_2 Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C38-1
+Added Pin To Net: NetName=VCC_3.3V_S Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=VCC3.3E Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=TPTX+ Pin=C41-2
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=TPTX- Pin=C42-2
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=TPRX+ Pin=C43-2
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=TPRX- Pin=C44-2
+Added Pin To Net: NetName=VCC3.3E Pin=L5-1
+Added Pin To Net: NetName=VCC_3.3V_S Pin=L5-2
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=VCC3.3_S Pin=R14-2
+Added Pin To Net: NetName=NetR13_1 Pin=R15-1
+Added Pin To Net: NetName=NetR14_1 Pin=R15-2
+Added Pin To Net: NetName=ETH_MDIO Pin=R25-1
+Added Pin To Net: NetName=NetR25_2 Pin=R25-2
+Added Pin To Net: NetName=TPTX+ Pin=R26-1
+Added Pin To Net: NetName=VCC3.3E Pin=R26-2
+Added Pin To Net: NetName=TPTX- Pin=R27-1
+Added Pin To Net: NetName=VCC3.3E Pin=R27-2
+Added Pin To Net: NetName=TPRX+ Pin=R28-1
+Added Pin To Net: NetName=VCC3.3E Pin=R28-2
+Added Pin To Net: NetName=TPRX- Pin=R29-1
+Added Pin To Net: NetName=VCC3.3E Pin=R29-2
+Added Pin To Net: NetName=LINK_LED Pin=R30-1
+Added Pin To Net: NetName=GND Pin=R30-2
+Added Pin To Net: NetName=SPEED_LED Pin=R31-1
+Added Pin To Net: NetName=GND Pin=R31-2
+Added Pin To Net: NetName=GND Pin=R32-1
+Added Pin To Net: NetName=ETH_RESET Pin=R32-2
+Added Pin To Net: NetName=GND Pin=R34-1
+Added Pin To Net: NetName=NetR34_2 Pin=R34-2
+Added Pin To Net: NetName=NetC34_2 Pin=R35-1
+Added Pin To Net: NetName=NetC35_2 Pin=R35-2
+Added Pin To Net: NetName=GND Pin=R37-1
+Added Pin To Net: NetName=NetEARTHNET1_10 Pin=R37-2
+Added Pin To Net: NetName=GND Pin=R38-1
+Added Pin To Net: NetName=NetEARTHNET1_11 Pin=R38-2
+Added Member To Class: ClassName=Master_V1 Member=Component C11 104pF
+Added Member To Class: ClassName=Master_V1 Member=Component C12 104pF
+Added Member To Class: ClassName=Master_V1 Member=Component C13 104pF
+Added Member To Class: ClassName=Master_V1 Member=Component C14 104pF
+Added Member To Class: ClassName=Master_V1 Member=Component C15 104pF
+Added Member To Class: ClassName=Master_V1 Member=Component C16 104pF
+Added Member To Class: ClassName=Master_V1 Member=Component C22 104pF
+Added Member To Class: ClassName=Master_V1 Member=Component C24 104pF
+Added Member To Class: ClassName=Master_V1 Member=Component C25 104pF
+Added Member To Class: ClassName=Master_V1 Member=Component C26 104pF
+Added Member To Class: ClassName=Master_V1 Member=Component C34 22pF
+Added Member To Class: ClassName=Master_V1 Member=Component C35 22pF
+Added Member To Class: ClassName=Master_V1 Member=Component C38 104pF
+Added Member To Class: ClassName=Master_V1 Member=Component C40 223pF
+Added Member To Class: ClassName=Master_V1 Member=Component C41 10pF
+Added Member To Class: ClassName=Master_V1 Member=Component C42 10pF
+Added Member To Class: ClassName=Master_V1 Member=Component C43 10pF
+Added Member To Class: ClassName=Master_V1 Member=Component C44 10pF
+Added Member To Class: ClassName=Master_V1 Member=Component L5 220R,2.0A,0.05DCR
+Added Member To Class: ClassName=Master_V1 Member=Component R13 360R
+Added Member To Class: ClassName=Master_V1 Member=Component R14 360R
+Added Member To Class: ClassName=Master_V1 Member=Component R15 120R
+Added Member To Class: ClassName=Master_V1 Member=Component R25 510R
+Added Member To Class: ClassName=Master_V1 Member=Component R26 49.9R
+Added Member To Class: ClassName=Master_V1 Member=Component R27 49.9R
+Added Member To Class: ClassName=Master_V1 Member=Component R28 49.9R
+Added Member To Class: ClassName=Master_V1 Member=Component R29 49.9R
+Added Member To Class: ClassName=Master_V1 Member=Component R30 10K
+Added Member To Class: ClassName=Master_V1 Member=Component R31 10K
+Added Member To Class: ClassName=Master_V1 Member=Component R32 10K
+Added Member To Class: ClassName=Master_V1 Member=Component R34 12.1K
+Added Member To Class: ClassName=Master_V1 Member=Component R35 1M
+Added Member To Class: ClassName=Master_V1 Member=Component R37 510R
+Added Member To Class: ClassName=Master_V1 Member=Component R38 510R

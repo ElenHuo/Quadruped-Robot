@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: E:\2019Robocon\PCB电路设计\四足-MCU设计\quadruped.PcbDoc
+RuleKind=Width|RuleName=pwr|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=gnd|Scope=Board|Minimum=8.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=8.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

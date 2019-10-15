@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetPOWER-2.54_1 Pin=S1-1
+Removed Pin From Net: NetName=GND Pin=S1-3
+Removed Pin From Net: NetName=5V Pin=S1-4
+Removed Pin From Net: NetName=5V Pin=S1-5
+Removed Pin From Net: NetName=GND Pin=S1-6
+Added Pin To Net: NetName=5V Pin=S1-3

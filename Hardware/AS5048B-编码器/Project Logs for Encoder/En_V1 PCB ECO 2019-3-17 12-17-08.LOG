@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=5V Pin=P1-1
+Removed Pin From Net: NetName=A Pin=P1-2
+Removed Pin From Net: NetName=B Pin=P1-3
+Removed Pin From Net: NetName=I Pin=P1-4
+Removed Pin From Net: NetName=GND Pin=P1-5
+Change Component Footprint: Designator=LED Old Footprint=LED-0603-hm New Footprint=0603_LED
+Change Component Footprint: Designator=P1 Old Footprint=XH2.54_5P÷±’Î New Footprint=MX2.54-5P÷±’Î
+Change Component Designator: OldDesignator=LED NewDesignator=DS?
+Added Component: Designator=Diode1(LC-SOD-123F)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5V Pin=Diode1-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=A Pin=P1-3
+Added Pin To Net: NetName=B Pin=P1-4
+Added Pin To Net: NetName=I Pin=P1-5
+Added Pin To Net: NetName=VBAT Pin=Diode1-1
+Added Pin To Net: NetName=VBAT Pin=P1-1
+Added Net: Name=VBAT
+Added Member To Class: ClassName=En_V1 Member=Component Diode1 D1

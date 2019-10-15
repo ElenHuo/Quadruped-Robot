@@ -1,0 +1,49 @@
+Added Component: Designator=P2(PH2.0-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P3(PH2.0-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P4(PH2.0-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P5(PH2.0-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P6(PH2.0-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P7(PH2.0-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P8(PH2.0-3)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P9(PH2.0-3)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC_5V_U Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=T1_C1 Pin=P2-3
+Added Pin To Net: NetName=VCC_5V_U Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P3-2
+Added Pin To Net: NetName=T1_C3 Pin=P3-3
+Added Pin To Net: NetName=VCC_5V_U Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=T4_C1 Pin=P4-3
+Added Pin To Net: NetName=VCC_5V_U Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=T4_C3 Pin=P5-3
+Added Pin To Net: NetName=VCC_5V_U Pin=P6-1
+Added Pin To Net: NetName=GND Pin=P6-2
+Added Pin To Net: NetName=T4_C4 Pin=P6-3
+Added Pin To Net: NetName=VCC_5V_U Pin=P7-1
+Added Pin To Net: NetName=GND Pin=P7-2
+Added Pin To Net: NetName=T1_C2 Pin=P7-3
+Added Pin To Net: NetName=VCC_5V_U Pin=P8-1
+Added Pin To Net: NetName=GND Pin=P8-2
+Added Pin To Net: NetName=T1_C4 Pin=P8-3
+Added Pin To Net: NetName=VCC_5V_U Pin=P9-1
+Added Pin To Net: NetName=GND Pin=P9-2
+Added Pin To Net: NetName=T4_C2 Pin=P9-3
+Added Member To Class: ClassName=Master_V1 Member=Component P2 PH2.0-3P
+Added Member To Class: ClassName=Master_V1 Member=Component P3 PH2.0-3P
+Added Member To Class: ClassName=Master_V1 Member=Component P4 PH2.0-3P
+Added Member To Class: ClassName=Master_V1 Member=Component P5 PH2.0-3P
+Added Member To Class: ClassName=Master_V1 Member=Component P6 PH2.0-3P
+Added Member To Class: ClassName=Master_V1 Member=Component P7 PH2.0-3P
+Added Member To Class: ClassName=Master_V1 Member=Component P8 PH2.0-3P
+Added Member To Class: ClassName=Master_V1 Member=Component P9 PH2.0-3P
+Added Room: Name=Master_V1

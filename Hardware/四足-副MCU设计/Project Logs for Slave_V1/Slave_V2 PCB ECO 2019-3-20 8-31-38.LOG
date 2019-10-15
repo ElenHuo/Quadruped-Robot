@@ -1,0 +1,62 @@
+Added Component: Designator=BEEP1(BELL-5)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(LC-SOD-123F)
+Add component. Clean all parameters for all variants
+Added Component: Designator=DS2(0603_LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DS3(0603_LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DS4(0603_LED)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT-23R)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3 Pin=BEEP1-1
+Added Pin To Net: NetName=3V3 Pin=D1-2
+Added Pin To Net: NetName=3V3 Pin=DS2-1
+Added Pin To Net: NetName=3V3 Pin=DS3-1
+Added Pin To Net: NetName=3V3 Pin=DS4-1
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=BEEP Pin=U4-14
+Added Net: Name=BEEP
+Added Pin To Net: NetName=LED0 Pin=U4-15
+Added Net: Name=LED0
+Added Pin To Net: NetName=LED1 Pin=U4-18
+Added Net: Name=LED1
+Added Pin To Net: NetName=LED2 Pin=U4-19
+Added Net: Name=LED2
+Added Pin To Net: NetName=NetBEEP1_2 Pin=BEEP1-2
+Added Pin To Net: NetName=NetBEEP1_2 Pin=D1-1
+Added Pin To Net: NetName=NetBEEP1_2 Pin=Q1-3
+Added Net: Name=NetBEEP1_2
+Added Pin To Net: NetName=NetDS2_2 Pin=DS2-2
+Added Net: Name=NetDS2_2
+Added Pin To Net: NetName=NetDS3_2 Pin=DS3-2
+Added Net: Name=NetDS3_2
+Added Pin To Net: NetName=NetDS4_2 Pin=DS4-2
+Added Net: Name=NetDS4_2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Net: Name=NetQ1_2
+Added Member To Class: ClassName=Slave_V1 Member=Component BEEP1 BEEP
+Added Member To Class: ClassName=Slave_V1 Member=Component D1 RB161MM-20TR
+Added Member To Class: ClassName=Slave_V1 Member=Component DS2 LED0
+Added Member To Class: ClassName=Slave_V1 Member=Component DS3 LED1
+Added Member To Class: ClassName=Slave_V1 Member=Component DS4 LED2
+Added Member To Class: ClassName=Slave_V1 Member=Component Q1 S8050

@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: quadruped.PcbDoc   2019/5/22  23:36:01
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : quadruped.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             85        PTH        0.00inch (0.00mm)
+T2      24mil (0.61mm)                                            Round             1         PTH        0.00inch (0.00mm)
+T3      35mil (0.9mm)                                             Round             42        PTH        0.00inch (0.00mm)
+T4      39mil (1mm)                                               Round             10        PTH        0.00inch (0.00mm)
+T5      47mil (1.2mm)                                             Round             36        PTH        0.00inch (0.00mm)
+T6      122mil (3.1mm)                                            Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              178
+
+Total Processing Time (hh:mm:ss) : 00:00:00

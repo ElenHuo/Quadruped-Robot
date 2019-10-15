@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R1 Old Footprint=AXIAL-0.4 New Footprint=0805
+Change Component Footprint: Designator=D1 Old Footprint=LED-1 New Footprint=0805
+Change Component Footprint: Designator=C1 Old Footprint=RAD-0.3 New Footprint=0805
+Added Room: Name=оƬ

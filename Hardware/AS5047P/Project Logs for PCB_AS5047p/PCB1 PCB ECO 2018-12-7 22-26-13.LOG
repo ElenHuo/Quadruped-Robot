@@ -1,0 +1,44 @@
+Added Component: Designator=C1(0805)
+Added Component: Designator=C2(0805)
+Added Component: Designator=C3(0805)
+Added Component: Designator=D1(0805)
+Added Component: Designator=P1(5pin_XH2.54)
+Added Component: Designator=R1(0805)
+Added Component: Designator=R2(0805)
+Added Component: Designator=R3(0805)
+Added Component: Designator=U1(SSOP14)
+Added Pin To Net: NetName=3.3V/5V Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=C3-2
+Added Pin To Net: NetName=VCC Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=B Pin=P1-1
+Added Pin To Net: NetName=A Pin=P1-2
+Added Pin To Net: NetName=I/PWM Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=3.3V/5V Pin=P1-5
+Added Pin To Net: NetName=VDD3V Pin=R1-1
+Added Pin To Net: NetName=3.3V/5V Pin=R1-2
+Added Pin To Net: NetName=VDD3V Pin=R2-1
+Added Pin To Net: NetName=NetC2_2 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetD1_2 Pin=R3-2
+Added Pin To Net: NetName=B Pin=U1-6
+Added Pin To Net: NetName=A Pin=U1-7
+Added Pin To Net: NetName=3.3V/5V Pin=U1-11
+Added Pin To Net: NetName=VDD3V Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=I/PWM Pin=U1-14
+Added Member To Class: ClassName=оƬ Member=Component C1 Cap
+Added Member To Class: ClassName=оƬ Member=Component C2 Cap
+Added Member To Class: ClassName=оƬ Member=Component C3 Cap
+Added Member To Class: ClassName=оƬ Member=Component D1 LED0
+Added Member To Class: ClassName=оƬ Member=Component P1 Header 5H
+Added Member To Class: ClassName=оƬ Member=Component R1 Res2
+Added Member To Class: ClassName=оƬ Member=Component R2 Res2
+Added Member To Class: ClassName=оƬ Member=Component R3 Res1
+Added Member To Class: ClassName=оƬ Member=Component U1 MHDR2X7
+Added Room: Name=оƬ

@@ -1,0 +1,16 @@
+Added Component: Designator=P7(HDR1X6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC3.3 Pin=P7-1
+Added Pin To Net: NetName=GND Pin=P7-4
+Added Pin To Net: NetName=GND Pin=P7-5
+Added Pin To Net: NetName=GND Pin=P7-6
+Added Pin To Net: NetName=U3_RX Pin=P7-3
+Added Pin To Net: NetName=U3_RX Pin=U1-70
+Added Net: Name=U3_RX
+Added Pin To Net: NetName=U3_TX Pin=P7-2
+Added Pin To Net: NetName=U3_TX Pin=U1-69
+Added Net: Name=U3_TX
+Added Member To Class: ClassName=quadruped Member=Component P7 Header 6
